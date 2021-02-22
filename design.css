@@ -1,0 +1,32 @@
+p {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 20px blue inset;
+  }
+  
+  h2 {
+    color: rgb(212, 29, 29);
+    text-align: center;
+  }
+  
+   b:hover {
+    background-color: rgb(84, 151, 240);
+    color: white;
+   
+   
+   }
+   b{
+      margin: 20px;
+       margin-left: 200px;
+      padding: 10px;
+   }
+    .social {
+    
+     align-content: center;
+     margin-left: 620px;
+  } 
+  
+  a:hover {
+      opacity: 0.7;
+  }
+  
